@@ -1,0 +1,26 @@
+body {
+  background-color: black; /* Hintergrundfarbe */
+  font-family: "Press Start 2P", monospace; /* Schriftart im Pixel-Stil */
+  font-size: 20px; /* Schriftgröße */
+  color: white; /* Schriftfarbe */
+  margin: 0; /* Abstand zum Rand */
+  padding: 0; /* Abstand zum Inhalt */
+}
+
+p {
+    max-width: 500px; /* maximale Breite des Textes */
+    margin: 0 auto; /* gleicher Abstand zum linken und rechten Rand */
+    text-align: center; /* zentrierte Ausrichtung des Textes */    
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+  
+h1 {
+    color: purple;
+    max-width: 500px; /* maximale Breite des Textes */
+    margin: 0 auto; /* gleicher Abstand zum linken und rechten Rand */
+    text-align: center; /* zentrierte Ausrichtung des Textes */
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+  
